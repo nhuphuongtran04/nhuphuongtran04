@@ -7,7 +7,7 @@ I am a third-year Information Technology (Vietnam–Japan program) student at th
 Driven by perseverance and creativity, I have:
 
 - 📚 **Self‑studied:** C++, HTML/CSS through weekly tutorials and online resources.
-- 🗾 **Learned Japanese:** Following my program curriculum and daily practice, aiming to pass JLPT N3 (short‑term) and N2 (before graduation).
+- 🗾 **Learned Japanese:** Following my program curriculum and daily practice, aiming to pass N2 before graduation.
 - 🌐 **Explored Web Development:** Building small web projects to refine my coding skills and prepare for real‑world applications.
 
 I thrive in collaborative environments, listen actively, respect diverse viewpoints, and meet deadlines. My strengths include persistence, time‑management, and a creative mindset. I’m always open to exciting internships and innovative projects in web development, full‑stack applications, or anything that drives positive impact.
